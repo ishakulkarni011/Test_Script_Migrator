@@ -1,0 +1,22 @@
+# Environment
+.env
+.env.*
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# Streamlit
+.streamlit/
+
+# Outputs
+output/
+
+# OS
+.DS_Store
+
+# Ollama
+.ollama/
+.ollama/*
